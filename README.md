@@ -1,4 +1,4 @@
 # Hello-World-
 Just another repository
 
-Here there! My name is Kakombe RUGANYIRA. Talk, skinny and love programming.
+Here there! My name is Kakombe RUGANYIRA. Tall, skinny and love programming.
